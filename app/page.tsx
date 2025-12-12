@@ -1,0 +1,1 @@
+import CustomerMenuPage from './customer/page'; export default function Home(){ return <CustomerMenuPage/> }

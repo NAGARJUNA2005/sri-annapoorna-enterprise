@@ -1,0 +1,1 @@
+export const metadata = { title: 'Sri Annapoorna' }; export default function RootLayout({ children }: any){ return <html lang='en'><body>{children}</body></html>; }
